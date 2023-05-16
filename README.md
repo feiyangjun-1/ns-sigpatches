@@ -24,3 +24,5 @@
 1. 将 IPS Patch Creator 文件夹中的 `atmosphere` 和 `bootloader` 两个文件夹复制到 SD 卡根目录。
    * 若提示有相同文件，选择覆盖即可。
 2. 开玩！
+
+最后，有问题欢迎在 issues 中提问！如果你觉得有些地方的语言有些晦涩，可以通过 pull requests 申请修改！
