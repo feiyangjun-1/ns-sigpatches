@@ -21,6 +21,6 @@
 5. 切换至 FS 选项卡，点击 Make Patch 按钮。在弹出的对话框中选择 IPS Patch Creator 文件夹中的 `/Firmware/` 文件夹，点击确定。
 6. 切换至 NFIM 选项卡，点击 Make Patch 按钮。在弹出的对话框中选择 IPS Patch Creator 文件夹中的 `/Firmware/` 文件夹，点击确定。
 # 第三步 - 完成
-1. 将 IPS Patch Creator 文件夹中的 `atmosphere` 和 `bootloader` 文件夹复制到 SD 卡根目录。
+1. 将 IPS Patch Creator 文件夹中的 `atmosphere` 和 `bootloader` 两个文件夹复制到 SD 卡根目录。
    * 若提示有相同文件，选择覆盖即可。
 2. 开玩！
