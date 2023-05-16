@@ -1,4 +1,4 @@
-### [Simplified Chinese](/README.md) | [正體中文（中華台北）](/README_TP.md) | ENGLISH (U R HERE)
+### [Simplified Chinese](/README.md) | [Traditional Chinese (Chinese Taipei)](/README_TP.md) | ENGLISH (U R HERE)
 ### Translated by DeepL, if there are any problems, submit an pull request, or tell me in issues!
 ##### If you are a lazy person, you can download the already made sigpatches directly from [Release](https://github.com/feiyangjun-1/ns-sigpatches/releases/latest).
 #### Note: The final sigpatches generated following this tutorial will only work with your chosen system firmware version and atmospheric version and are not up or down compatible.
