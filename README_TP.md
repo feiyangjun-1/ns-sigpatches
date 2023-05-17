@@ -17,12 +17,12 @@
 # 第二步 - 生成簽名補丁（sigpatches）
 1. 在 IPS Patch Creator 資料夾中解壓下載好的大氣層壓縮包。
 2. 打開 `IPS_Patch_Creator.exe` 。在 IPS Creator 下的 Loader 選項卡中，點選文字框下方的 Make Patch 按鈕。在彈出的對話框中點選解壓的大氣層中 `/atmosphere/` 資料夾中的 `package3` 檔案，點擊打開。
-3. 切換至 ES 選項卡，點擊 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
-4. 切換至 ES2 選項卡，點擊 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
-5. 切換至 FS 選項卡，點擊 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
-6. 切換至 NFIM 選項卡，點擊 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
+3. 切換至 ES 選項卡，點選 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
+4. 切換至 ES2 選項卡，點選 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
+5. 切換至 FS 選項卡，點選 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
+6. 切換至 NFIM 選項卡，點選 Make Patch 按鈕。在彈出的對話框中點選 IPS Patch Creator 資料夾中的 `/Firmware/` 資料夾，點擊確定。
 # 第三步 - 完成
-1. 將 IPS Patch Creator 資料夾中的 `atmosphere` 和 `bootloader` 兩個資料夾複製到 SD 卡根目錄。
+1. 將 IPS Patch Creator 資料夾中的 `atmosphere` 和 `bootloader` 兩個資料夾複製到 SD 卡根目錄底下。
    * 若提示有相同檔案，選擇覆蓋即可。
 2. 開玩！
 
