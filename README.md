@@ -1,4 +1,4 @@
-### 简体中文（当前页面/U R HERE）| [正體中文（中華台北）](/README_TP.md) | [ENGLISH (TRANSLATING)](/README_EN.md)
+### 简体中文（当前页面/U R HERE）| [正體中文（中華台北）](/README_TP.md) | [ENGLISH](/README_EN.md)
 ##### 如果你是懒人，可以直接在 [Release](https://github.com/feiyangjun-1/ns-sigpatches/releases/latest) 中下载已经制作好的 sigpatches。
 #### 注意：按照此教程最后生成的 sigpatches 只适用于你选择的的系统固件版本以及大气层版本，不向上或向下兼容。
 # 你都得准备点啥？
