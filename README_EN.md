@@ -1,5 +1,6 @@
 ### [Simplified Chinese](/README.md) | [Traditional Chinese (Chinese Taipei)](/README_TP.md) | ENGLISH (U R HERE)
-### Translated by DeepL, if there are any problems, submit an pull request, or tell me in issues!
+### *Translated by DeepL. If there are problems with translation, or you want to add other languages, use pull requests!*
+### *If you have any problem, you can use issues!*
 ##### If you are a lazy person, you can download the already made sigpatches directly from [Release](https://github.com/feiyangjun-1/ns-sigpatches/releases/latest).
 #### Note: The final sigpatches generated following this tutorial will only work with your chosen system firmware version and atmospheric version and are not up or down compatible.
 # What do you need to prepare?
@@ -22,6 +23,6 @@ Switch to the ES2 tab and click the Make Patch button. In the pop-up dialog box,
 Switch to the FS tab and click the Make Patch button. In the pop-up dialog box, select the `/Firmware/` folder in the IPS Patch Creator folder and click OK.
 Switch to the NFIM tab and click the Make Patch button. In the pop-up dialog box, select the `/Firmware/` folder in the IPS Patch Creator folder and click OK.
 # Step 3 - Finish
-Copy the `atmosphere` and `bootloader` two folders from the IPS Patch Creator folder to the root directory of the SD card.
-   * If prompted for the same files, select Overwrite. 2.
+1. Copy the `atmosphere` and `bootloader` two folders from the IPS Patch Creator folder to the root directory of the SD card.
+    * If prompted for the same files, select Overwrite.
 2. Enjoy!
