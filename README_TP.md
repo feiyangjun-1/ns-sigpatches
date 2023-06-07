@@ -1,4 +1,4 @@
-### 簡體中文 | [正體字（中華台北，當前頁面）](/README_TP.md) | [英語](/README_EN.md)
+### 簡體中文(/README.md) | [正體字（中華台北，當前頁面）] | [英語](/README_EN.md)
 ### 注：由於作者是大陸人，不清楚台灣當地用詞習慣，但也已盡量轉換爲台灣用詞。不當之處可以透過 pull requests 提交修改申請！
 ##### 如果你是懶人，可以直接在 [Release](https://github.com/feiyangjun-1/ns-sigpatches/releases/latest) 中下載已經製作好的 sigpatches。
 #### 注意：按照此教程最後生成的 sigpatches 只適用於你選擇的系統韌體版本以及大氣層版本，不向上或向下兼容。
