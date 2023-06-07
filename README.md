@@ -11,7 +11,7 @@
 2. 按音量键进行选择。如果你使用的是虚拟系统，请选择 Dump from EmuNAND；反之则选择 Dump from SysNAND。按电源键确认。
 3. 稍等片刻，待导出完成后，按电源键退出，选择 Shutdown （也可按照情况选择其他选项）。
 4. 将 SD 卡取出，使用电脑读取。在 SD 卡根目录下的 `/switch/` 文件夹中使用记事本（或其他软件）打开 `prod.keys` 文件。
-5. 解压下载好的 IPS Patch Creator。在解压好的文件夹中创建名为 `Firmware` 的文件夹，将下载好的系统固件压缩包中的所有文件解压到 `/Firmware/` 文件夹中。
+5. 解压下载好的 IPS Patch Creator。在解压好的文件夹中创建名为 Firmware 的文件夹，将下载好的系统固件压缩包中的所有文件解压到 `/Firmware/` 文件夹中。
 6. 打开 IPS Patch Creator 文件夹中的 `/tools/` 文件夹，将 `prod.keys` 中的数据对照填入至 `keys.dat` 文件中。
 # 第二步 - 生成签名补丁（sigpatches）
 1. 在 IPS Patch Creator 文件夹中解压下载好的大气层压缩包。
