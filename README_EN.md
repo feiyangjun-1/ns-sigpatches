@@ -17,7 +17,7 @@
    * If you don't have EmuMMC (EmuNAND), select *Dump from SysNAND*
 3. Wait for a moment and when the export is complete, press the Power button to exit and select Shutdown (you can also select other options as appropriate). 
 4. Remove the SD card and use the computer to read it. Open the `prod.keys` file in the `/switch/` folder in the root directory of the SD card using Notepad (or other software).
-5. Create a folder named `/Firmware/` in the extracted folder and extract all the files from the downloaded system firmware package to the `/Firmware/` folder. 
+5. Create a folder named Firmware in the extracted folder and extract all the files from the downloaded system firmware package to the `/Firmware/` folder. 
 6. Open the `/tools/` folder in the IPS Patch Creator folder and fill in the `keys.dat` file with the data from `prod.keys`.
 
 # Step 2 - Generate signature patches (sigpatches)
