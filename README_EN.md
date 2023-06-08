@@ -6,7 +6,7 @@
 
 # What do you need to prepare?
 * The latest version of [IPS Patch Creator](https://github.com/mrdude2478/IPS_Patch_Creator/releases/latest)
-* [`Lockpick_RCM.bin`](https://codeberg.org/attachments/466940a5-9bcb-42db-a0de-1038b2a132ad) (this is a backup, [original repository](https://github.com/shchmue/Lockpick_RCM) has been taken down because of the DMCA takedown notice).
+* [`Lockpick_RCM.bin`](https://codeberg.org/attachments/466940a5-9bcb-42db-a0de-1038b2a132ad) (this is a backup, [original repository](https://github.com/shchmue/Lockpick_RCM) is disabled because of the DMCA takedown notice).
 * Download the system firmware of the device you are currently using. It can be found at [Darthsternie's Firmware Archive](https://darthsternie.net/switch-firmwares/) or [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware/releases) for download.
 * Download the version of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) that you need to use.
 
