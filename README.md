@@ -2,7 +2,7 @@
 ##### 如果你是懒人，可以直接在 [Release](https://github.com/feiyangjun-1/ns-sigpatches/releases/latest) 中下载已经制作好的 sigpatches。
 #### 注意：按照此教程最后生成的 sigpatches 只适用于你选择的的系统固件版本以及大气层版本，不向上或向下兼容。
 # 你都得准备点啥？
-* 最新版 [IPS Patch Creator](https://github.com/mrdude2478/IPS_Patch_Creator/releases/latest)
+* 最新版 [IPS Patch Creator](https://disk.yandex.com/d/LEKGKbfDw-_pjA)
 * [`Lockpick_RCM.bin`](https://codeberg.org/attachments/466940a5-9bcb-42db-a0de-1038b2a132ad)（此为备份，[原仓库](https://github.com/shchmue/Lockpick_RCM)因版权原因已被 Github 删除）。
 * 下载你当前使用的设备系统固件。可以在 [Darthsternie's Firmware Archive](https://darthsternie.net/switch-firmwares/) 或 [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware/releases) 进行下载。
 * 下载你需要使用的[大气层](https://github.com/Atmosphere-NX/Atmosphere/releases)版本。
