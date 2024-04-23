@@ -5,7 +5,7 @@
 #### Note: The final sigpatches generated following this tutorial will only work with your chosen system firmware version and atmospheric version and are not up or down compatible.
 
 # What do you need to prepare?
-* The latest version of [IPS Patch Creator](https://github.com/mrdude2478/IPS_Patch_Creator/releases/latest)
+* The latest version of [IPS Patch Creator](https://disk.yandex.com/d/LEKGKbfDw-_pjA)
 * [`Lockpick_RCM.bin`](https://codeberg.org/attachments/466940a5-9bcb-42db-a0de-1038b2a132ad) (this is a backup, [original repository](https://github.com/shchmue/Lockpick_RCM) is unavailable because of the DMCA takedown notice).
 * Download the system firmware of the device you are currently using. It can be found at [Darthsternie's Firmware Archive](https://darthsternie.net/switch-firmwares/) or [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware/releases) for download.
 * Download the version of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) that you need to use.
@@ -22,7 +22,7 @@
 
 # Step 2 - Generate signature patches (sigpatches)
 1. Unzip the downloaded atmospheric zip package in the IPS Patch Creator folder.
-2. Open `IPS_Patch_Creator.exe`. In the Loader tab under IPS Creator, click *Make Patch* below the text box. In the pop-up dialog box, select the `package3` file in the `/atmosphere/` folder of the unpacked atmosphere and Open. 
+2. 打开 `IPS_Patch_Creator.exe`. In the Loader tab under IPS Creator, click *Make Patch* below the text box. In the pop-up dialog box, select the `package3` file in the `/atmosphere/` folder of the unpacked atmosphere and Open. 
 3. Switch to the ES tab and click *Make Patch*. In the pop-up dialog box, select the `/Firmware/` folder in the IPS Patch Creator folder and click OK.
 4. Switch to the ES2 tab and click *Make Patch*. In the pop-up dialog box, select the `/Firmware/` folder in the IPS Patch Creator folder and click OK.
 5. Switch to the FS tab and click *Make Patch*. In the pop-up dialog box, select the `/Firmware/` folder in the IPS Patch Creator folder and click OK.
